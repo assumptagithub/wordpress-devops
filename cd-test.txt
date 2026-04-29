@@ -1,0 +1,2 @@
+Testing CD pipeline - WordPress DevOps project
+This file is used to trigger Jenkins CI/CD pipeline
